@@ -1,0 +1,12 @@
+{
+  "display_name": "Summarize & Spinoff Character",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Sabrina",
+  "version": "1.0.0",
+  "homePage": "https://github.com/YOURNAME/summarize-spinoff",
+  "auto_update": true
+}

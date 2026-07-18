@@ -1,0 +1,4 @@
+/* Button reuses ST's native .mes_button styling, just needs the icon */
+.mes_summarize_spinoff {
+    cursor: pointer;
+}
